@@ -4,7 +4,7 @@ Simple Certificate Manager for IPsec...
 
 **Dependencies:** gtk2, polkit, openssl
 
-When creating a connection via `Network Manager` (e.g. IKEv2/IPsec), the connection settings must specify the corresponding certificates (e.g. Ca in case of public VPNs). Since the `IPsec` working directory is `/etc/ipsec.d` and certificates must be located in its subdirectories ([see IPSec help](https://wiki.strongswan.org/projects/strongswan/wiki/IpsecDirectory/5)), `NM` does not have access privileges to this directory by default.
+When creating a connection via `Network Manager` (e.g. IKEv2/IPsec), the connection settings must specify the corresponding certificates (e.g. Ca in case of public VPNs). Since the `IPsec` working directory is `/etc/ipsec.d` and certificates must be located in its subdirectories ([see IPsec Documentation](https://wiki.strongswan.org/projects/strongswan/wiki/IpsecDirectory/5)), `NM` does not have access privileges to this directory by default.
 
 ![](https://github.com/AKotov-dev/IPsecCaManager/blob/main/ScreenShot1.png)
 
