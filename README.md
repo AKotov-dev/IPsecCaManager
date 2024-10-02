@@ -18,7 +18,7 @@ Below is a screenshot of an already configured `IKEv2/IPsec` connection with a s
 
 ![](https://github.com/AKotov-dev/IPsecCaManager/blob/main/ScreenShot2.png)
 
-Let me remind you that to create an `IKEv2/IPsec` connection using `Network Manager`, the following packages are required:
+Let me remind you that to create an `IKEv2/IPsec` connection using `Network Manager` in Mageia Linux, the following packages are required:
 ```
 networkmanager-strongswan-gnome (or plasma-applet-nm-strongswan for KDE) networkmanager-strongswan strongswan-charon-nm strongswan libreswan (needed to create L2TP/IPsec)
 ```
