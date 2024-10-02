@@ -1,6 +1,6 @@
 # IPsecCaManager
 
-Simple Certificate Manager for `IPsec`.
+Simple Certificate Manager for IPsec...
 
 **Dependencies:** gtk2, polkit, openssl
 
