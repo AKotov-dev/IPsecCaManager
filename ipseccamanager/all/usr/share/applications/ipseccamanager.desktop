@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=IPSecCaManager
+Name[ru]=IPSecCaManager
+Comment=Certificate Manager
+Comment[ru]=Менеджер сертификатов
+Icon=ipseccamanager
+Exec=ipseccamanager
+Type=Application
+Categories=System;
+Terminal=false

@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [[ $(type -p kdesu) && $XDG_CURRENT_DESKTOP == KDE ]]; then
+    kdesu /usr/share/ipseccamanager/ipseccamanager
+	else
+    pkexec /usr/share/ipseccamanager/ipseccamanager
+fi
+
+exit;

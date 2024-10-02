@@ -1,0 +1,63 @@
+msgid ""
+msgstr "Content-Type: text/plain; charset=UTF-8"
+
+#: tmainform.caption
+msgid "MainForm"
+msgstr ""
+
+#: tmainform.deletebtn.hint
+msgid "Delete selected"
+msgstr ""
+
+#: tmainform.dirbox.text
+msgid "/etc/ipsec.d/cacerts"
+msgstr ""
+
+#: tmainform.editbtn.hint
+msgid "Edit an entry"
+msgstr ""
+
+#: tmainform.loadbtn.hint
+msgid "Load *.pem"
+msgstr ""
+
+#: tmainform.panel1.caption
+msgid "Panel1"
+msgstr ""
+
+#: tmainform.panel2.caption
+msgid "Panel2"
+msgstr ""
+
+#: tmainform.savebtn.hint
+msgid "Save as..."
+msgstr ""
+
+#: tmainform.selectall.hint
+msgid "Select all (Ctrl+A)"
+msgstr ""
+
+#: tmainform.statictext1.caption
+msgid "License: GPLv3   Author: alex_q_2000 (C) 2024  URL: https://github.com/AKotov-dev"
+msgstr ""
+
+#: unit1.sdeletecert
+msgid "Delete selected certificates?"
+msgstr ""
+
+#: unit1.sdirnotfound
+msgid "not found! Terminate!"
+msgstr ""
+
+#: unit1.sfileexists
+msgid "The file already exists!"
+msgstr ""
+
+#: unit1.snewname
+msgid "Eenter a new name"
+msgstr ""
+
+#: unit1.srenamecert
+msgid "Rename"
+msgstr ""
+

@@ -1,0 +1,70 @@
+[NAME]
+name=ipseccamanager
+
+[VERSION]
+version=0.1
+
+[RELEASE]
+release=0.mga9
+
+[GROUP]
+group=Accessibility
+
+[DESCRIPTION]
+0=Simple Certificate Manager for IPsec
+1=---
+2=More information: /usr/share/doc/package_name/repack.txt
+
+[MAINTAINER]
+maintainer=Alex Kotov
+
+[VENDOR]
+vendor=alex_q_2000 (C) 2024
+
+[SUMMARY]
+summary=Simple Certificate Manager for IPsec
+
+[URLCOPY]
+urlcopy=https://github.com/AKotov-dev
+
+[LICENSE]
+license=GPLv3
+
+[DEPS]
+deps=gtk2, polkit, openssl
+
+[META]
+meta=0
+
+[NOARCH]
+noarch=0
+
+[DEB]
+deb=0
+
+[FILES]
+0=/usr/bin/ipseccamanager
+1=/usr/share/icons/ipseccamanager.png
+2=/usr/share/applications/ipseccamanager.desktop
+3=/usr/share/polkit-1/actions/ipseccamanager.policy
+4=/usr/share/ipseccamanager/
+5=/usr/share/doc/ipseccamanager/
+
+[URL32]
+url32=https://github.com/AKotov-dev
+
+[PROGRAMNAME]
+programname=IPsecCaManager
+
+[DEVTOOL]
+devtool=Lazarus
+
+[TOOLVERSION]
+toolversion=3.2
+
+[INFO]
+0=v0.1
+1=+ Initial release
+2=+ Packages for Mageia-9 and Ubuntu
+3=
+4=*Note:* It is possible to launch without installation by running `StartAsRoot` from the archive
